@@ -1,7 +1,8 @@
 # zim-Nobita
 Hack
 # Follow-Me
-#https://github.com/Errorzim.git(https://www.facebook.com/sunnyLeon.ar.vatar.me)
+#https://github.com/Errorzim.git
+#https://www.facebook.com/sunnyLeon.ar.vatar.me)
 
 <h1 align="center">https://github.com/Errorzim</h1>
 
